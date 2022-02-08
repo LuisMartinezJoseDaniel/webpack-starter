@@ -1,0 +1,9 @@
+html, body{
+  margin: 0;
+  background-color: #ddd;
+}
+
+img{
+  max-width: 100%;
+  width: 50%;
+}
